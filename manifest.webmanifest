@@ -1,0 +1,13 @@
+{
+  "name": "Culture Quotidienne",
+  "short_name": "Culture",
+  "description": "Une leçon de culture générale de 5 à 10 minutes par jour, suivie d'un quiz.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#58cc02",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
