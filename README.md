@@ -69,7 +69,7 @@ registerLesson({
 
 > Les ids des leçons servent à mémoriser la progression : ne pas les renommer une fois publiés.
 
-## Contenu actuel (14 jours)
+## Contenu actuel (54 jours)
 
 | Jour | Thème | Leçon |
 |---|---|---|
@@ -87,3 +87,43 @@ registerLesson({
 | 12 | Histoire | La guerre froide (1947–1991) |
 | 13 | Philosophie | Descartes : « Je pense, donc je suis » |
 | 14 | Technologie | L'intelligence artificielle |
+| 15 | Philosophie | Platon et l'allégorie de la caverne |
+| 16 | Histoire | L'Égypte des pharaons |
+| 17 | Sciences | L'ADN, le code de la vie |
+| 18 | Arts | L'impressionnisme |
+| 19 | Économie | Le PIB et la croissance |
+| 20 | Géopolitique | L'ONU et le Conseil de sécurité |
+| 21 | Littérature | Homère : l'Iliade et l'Odyssée |
+| 22 | Politique | Comment fonctionne l'Union européenne ? |
+| 23 | Finance | La Bourse et les actions |
+| 24 | Sciences | Le Big Bang et l'histoire de l'Univers |
+| 25 | Histoire | Rome : de la République à l'Empire |
+| 26 | Religions | Les trois grands monothéismes |
+| 27 | Industrie | L'énergie nucléaire |
+| 28 | Philosophie | Le stoïcisme |
+| 29 | Économie | L'inflation |
+| 30 | Géographie | La tectonique des plaques |
+| 31 | Technologie | Petite histoire de l'ordinateur |
+| 32 | Arts | Bach, Mozart, Beethoven |
+| 33 | Histoire | Napoléon Bonaparte |
+| 34 | Géopolitique | La Chine, une puissance mondiale |
+| 35 | Sciences | Le système solaire |
+| 36 | Littérature | Molière et la comédie classique |
+| 37 | Finance | La crise financière de 2008 |
+| 38 | Politique | La Ve République |
+| 39 | Religions | Le bouddhisme |
+| 40 | Histoire | La Première Guerre mondiale (1914–1918) |
+| 41 | Économie | La mondialisation |
+| 42 | Arts | Picasso et l'art moderne |
+| 43 | Industrie | Les semi-conducteurs |
+| 44 | Philosophie | Sartre, Camus et l'existentialisme |
+| 45 | Histoire | La Seconde Guerre mondiale (1939–1945) |
+| 46 | Sciences | L'atome et le tableau périodique |
+| 47 | Géopolitique | Le pétrole et l'OPEP |
+| 48 | Littérature | Victor Hugo |
+| 49 | Droit | Les bases du droit français |
+| 50 | Sciences | Les vaccins et le système immunitaire |
+| 51 | Histoire | La décolonisation |
+| 52 | Géographie | La population mondiale |
+| 53 | Arts | Une petite histoire du cinéma |
+| 54 | Finance | Le bitcoin et les cryptomonnaies |

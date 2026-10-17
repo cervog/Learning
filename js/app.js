@@ -101,6 +101,7 @@
     return String(text).trim().split(/\n\s*\n/).map((block) => {
       const lines = block.split("\n");
       const inline = (l) => esc(l)
+        .replace(/\*\*\*(.+?)\*\*\*/g, "<strong><em>$1</em></strong>")
         .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
         .replace(/\*(.+?)\*/g, "<em>$1</em>");
       if (lines.every((l) => /^\s*- /.test(l))) {

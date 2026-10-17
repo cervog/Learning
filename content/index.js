@@ -1,6 +1,8 @@
 // Ordre du parcours : une leçon par jour, dans cet ordre.
 // Pour ajouter une leçon : créer content/lecons/<id>.js puis ajouter son id ici.
+// Ne pas renommer ni réordonner les ids déjà publiés : ajouter les nouvelles leçons à la fin.
 window.LESSON_INDEX = [
+  // Jours 1 à 14
   "philo-socrate",
   "histoire-revolution-francaise",
   "sciences-evolution",
@@ -14,5 +16,46 @@ window.LESSON_INDEX = [
   "industrie-revolution-industrielle",
   "histoire-guerre-froide",
   "philo-descartes",
-  "technologie-intelligence-artificielle"
+  "technologie-intelligence-artificielle",
+  // Jours 15 à 54
+  "philo-platon-caverne",
+  "histoire-egypte-antique",
+  "sciences-adn",
+  "arts-impressionnisme",
+  "economie-pib",
+  "geopolitique-onu",
+  "litterature-homere",
+  "politique-union-europeenne",
+  "finance-bourse",
+  "sciences-big-bang",
+  "histoire-rome-antique",
+  "religions-monotheismes",
+  "industrie-energie-nucleaire",
+  "philo-stoicisme",
+  "economie-inflation",
+  "geographie-tectonique",
+  "technologie-ordinateur",
+  "arts-musique-classique",
+  "histoire-napoleon",
+  "geopolitique-chine",
+  "sciences-systeme-solaire",
+  "litterature-moliere",
+  "finance-crise-2008",
+  "politique-ve-republique",
+  "religions-bouddhisme",
+  "histoire-premiere-guerre-mondiale",
+  "economie-mondialisation",
+  "arts-art-moderne",
+  "industrie-semi-conducteurs",
+  "philo-existentialisme",
+  "histoire-seconde-guerre-mondiale",
+  "sciences-atome",
+  "geopolitique-petrole",
+  "litterature-victor-hugo",
+  "droit-hierarchie-normes",
+  "sciences-vaccins",
+  "histoire-decolonisation",
+  "geographie-demographie",
+  "arts-cinema",
+  "finance-bitcoin"
 ];
