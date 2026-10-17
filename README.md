@@ -69,7 +69,7 @@ registerLesson({
 
 > Les ids des leçons servent à mémoriser la progression : ne pas les renommer une fois publiés.
 
-## Contenu actuel (54 jours)
+## Contenu actuel (100 jours)
 
 | Jour | Thème | Leçon |
 |---|---|---|
@@ -127,3 +127,49 @@ registerLesson({
 | 52 | Géographie | La population mondiale |
 | 53 | Arts | Une petite histoire du cinéma |
 | 54 | Finance | Le bitcoin et les cryptomonnaies |
+| 55 | Philosophie | Aristote, le savant universel |
+| 56 | Histoire | Le Moyen Âge et la féodalité |
+| 57 | Sciences | Newton et la gravitation |
+| 58 | Économie | Keynes contre les libéraux |
+| 59 | Arts | Les cathédrales gothiques |
+| 60 | Géopolitique | L'OTAN |
+| 61 | Littérature | Shakespeare |
+| 62 | Technologie | Comment fonctionne le GPS ? |
+| 63 | Histoire | Les grandes découvertes |
+| 64 | Géographie | Les grands fleuves du monde |
+| 65 | Finance | Le FMI et la Banque mondiale |
+| 66 | Politique | La démocratie, d'Athènes à nos jours |
+| 67 | Philosophie | Les Lumières |
+| 68 | Sciences | Einstein et la relativité |
+| 69 | Arts | L'histoire de la photographie |
+| 70 | Histoire | La naissance des États-Unis |
+| 71 | Industrie | L'industrie automobile |
+| 72 | Religions | L'hindouisme |
+| 73 | Géopolitique | L'Arctique, nouvelle frontière |
+| 74 | Économie | Le chômage |
+| 75 | Littérature | Baudelaire et Les Fleurs du mal |
+| 76 | Sciences | Le cerveau humain |
+| 77 | Histoire | La révolution russe de 1917 |
+| 78 | Politique | Machiavel et Le Prince |
+| 79 | Philosophie | Kant et la morale du devoir |
+| 80 | Géographie | Les océans |
+| 81 | Arts | Le jazz |
+| 82 | Histoire | La crise de 1929 et la Grande Dépression |
+| 83 | Sciences | L'effet de serre et le réchauffement climatique |
+| 84 | Littérature | Zola et le naturalisme |
+| 85 | Géopolitique | La conquête spatiale aujourd'hui |
+| 86 | Économie | Déficit et dette publique |
+| 87 | Industrie | L'aéronautique, d'Ader à Airbus |
+| 88 | Religions | La laïcité à la française |
+| 89 | Philosophie | Nietzsche : « Dieu est mort » |
+| 90 | Histoire | Gengis Khan et l'Empire mongol |
+| 91 | Géographie | L'eau douce, une ressource vitale |
+| 92 | Sciences | La physique quantique |
+| 93 | Arts | Le pop art et l'art contemporain |
+| 94 | Politique | Les modes de scrutin |
+| 95 | Géopolitique | L'Inde, puissance montante |
+| 96 | Littérature | Orwell, 1984 et les dystopies |
+| 97 | Finance | Épargner et placer son argent |
+| 98 | Technologie | La cybersécurité |
+| 99 | Géographie | Les forêts du monde |
+| 100 | Droit | Les droits de l'homme |
