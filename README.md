@@ -28,10 +28,6 @@ python3 -m http.server 8000
 
 Pour l'avoir sur son téléphone, le plus simple est d'activer **GitHub Pages** sur le dépôt (Settings → Pages → branche `main`, dossier `/`), puis « Ajouter à l'écran d'accueil ».
 
-## Autre application du dépôt
-
-- [`secret-santa/`](secret-santa/) : **Secret Santa en famille** 🎅 — tirage au sort qui mélange familles et générations, lien personnel pour découvrir à qui on offre, souhaits de chacun. Voir [secret-santa/README.md](secret-santa/README.md).
-
 ## Structure
 
 ```
